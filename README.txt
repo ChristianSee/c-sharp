@@ -1,4 +1,4 @@
-c#- Programm mit grafischer Oberfläche. Dort können verschiedene WPF-Elemente wie
+c#- Programm mit grafischer Oberfläche. Dort können verschiedene WPF-Elemente wie 
 
 -Buttons
 -Radiobutton
