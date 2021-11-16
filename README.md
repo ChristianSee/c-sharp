@@ -1,2 +1,3 @@
 # c-sharp
-Programs in c#
+Program in c# with XAML and WPF
+Contains Checkboxes, Buttons, Radiobuttons, Listboxes, Comboboxes, Trees..
