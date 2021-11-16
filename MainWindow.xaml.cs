@@ -3,7 +3,7 @@
 //** By: Christian Seepold,                          **
 //** Thema: Verschiedene WPF-Elemente                **
 //** Version 1.0                                     **
-//** Datum: 12.01.2021                               **
+//** Datum: 12.09.2021                               **
 //** Status: ready                                   **
 //**                                                 **
 //*****************************************************
